@@ -39,7 +39,4 @@ RVA точки входа: -
 Пример запуска программы:
 task-3.exe
 
-Insert name: Sergey
-License key: TIfKsMhOfQzShUiW
-
 # Заметки по курсу
