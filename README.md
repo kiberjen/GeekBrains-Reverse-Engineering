@@ -60,3 +60,5 @@ PPEE - https://www.mzrst.com/ <br>
 ollydbg - https://www.ollydbg.de/ <br>
 Procmon - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon <br>
 IDA Freeware - https://hex-rays.com/ida-free/ <br>
+Wireshark - https://www.wireshark.org/download.html <br>
+strings - https://docs.microsoft.com/en-us/sysinternals/downloads/strings <br>
