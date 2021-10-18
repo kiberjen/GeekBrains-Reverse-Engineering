@@ -39,4 +39,24 @@ RVA точки входа: -
 Пример запуска программы:
 task-3.exe
 
+#Урок 6. Видеоурок «Способы обхода активации программ»
+
+Задание:
+Дана программа task-4. Необходимо получить корректный ключ для вашего имени.
+Пример запуска программы:
+crackme-4.exe
+
+Name: <your name>
+License Key: <license key>
+
 # Заметки по курсу
+
+## Софт для работы
+
+Visual Studio 2019 community - https://visualstudio.microsoft.com/ru/vs/community/
+Notepad++ - https://notepad-plus-plus.org/downloads/
+HxD - https://mh-nexus.de/en/hxd/
+PPEE - https://www.mzrst.com/
+ollydbg - https://www.ollydbg.de/
+Procmon - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+IDA Freeware - https://hex-rays.com/ida-free/
