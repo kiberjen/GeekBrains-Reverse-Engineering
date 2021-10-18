@@ -53,10 +53,10 @@ License Key: <license key>
 
 ## Софт для работы
 
-Visual Studio 2019 community - https://visualstudio.microsoft.com/ru/vs/community/
-Notepad++ - https://notepad-plus-plus.org/downloads/
-HxD - https://mh-nexus.de/en/hxd/
-PPEE - https://www.mzrst.com/
-ollydbg - https://www.ollydbg.de/
-Procmon - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
-IDA Freeware - https://hex-rays.com/ida-free/
+Visual Studio 2019 community - https://visualstudio.microsoft.com/ru/vs/community/ /n
+Notepad++ - https://notepad-plus-plus.org/downloads/ /n
+HxD - https://mh-nexus.de/en/hxd/ /n
+PPEE - https://www.mzrst.com/ /n
+ollydbg - https://www.ollydbg.de/ /n
+Procmon - https://docs.microsoft.com/en-us/sysinternals/downloads/procmon /n
+IDA Freeware - https://hex-rays.com/ida-free/ /n
