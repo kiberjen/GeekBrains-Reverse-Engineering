@@ -1,0 +1,32 @@
+char buff1[64]
+memset{buff1,0,64}
+
+char buff2[64]
+memset{buff2,0,64}
+
+printf("Insertname: ")
+scanf("%s", buff1)
+
+if (streln(nuff) <=16)
+	some_func(buff1, buff2)
+	printf("key is %s", buff2)
+	return 0
+else {
+	printf("Sorry")
+	return 0;
+}
+
+void some_func(buff1, buff2) {
+	int i = streln(buff1)
+	if (i < 8) {
+		for(i; i < 8; i++) {
+		buff1[i]= 0x61 + i;
+		}
+	}
+	
+for (int i = 0; j= 0; i <= 16; i++){
+	buff2[i] = buff2[j] + 1;
+	buff2[i] = 0x41 + i + first_leght;
+} 
+}
+
